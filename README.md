@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm E-249, or Etwo, a Computer Engineering student in Spain.
 
-<!--
-**E-249/E-249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mainly interested in backend development, with a special taste for low-level programming.
 
-Here are some ideas to get you started:
+Also, looking forward to developing my dream game! 🌙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Languages
+- Java, Rust, C, C++, Python
+
+---
+
+## About me
+
+- Currently studying at EHU
+- Working on a compiler and IDE for my own *martian* language
+- Learning Rust and some assembly quirks
+- "*I like talking about infinities*", it seems...
